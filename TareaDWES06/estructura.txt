@@ -1,0 +1,7 @@
+Proyecto: TareaDWES06 - Biblioteca de Libros
+Archivos:
+1. ddl.sql: Script para crear la base de datos y tabla books.
+2. database.php: Configuración de conexión a la base de datos.
+3. book.php: Clase Book con la lógica para manejar los libros.
+4. index.php: Punto de entrada para manejar las solicitudes RESTful.
+5. prueba.http: Archivo para realizar pruebas a la API.
